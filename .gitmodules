@@ -1,0 +1,3 @@
+[submodule "tools/minecraft-updater"]
+	path = tools/minecraft-updater
+	url = https://github.com/AirplaneGobrr-Trash/minecraft-updater.git
